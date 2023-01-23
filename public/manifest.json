@@ -1,7 +1,7 @@
 {
   "id": "/",
   "scope": "/",
-  "name": "PWA Starter",
+  "name": "BS 5.2",
   "display": "standalone",
   "start_url": "/",
   "short_name": "starter",
